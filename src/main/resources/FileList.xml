@@ -43,7 +43,6 @@
     <file type="raw" palette="town01v.pal" width="640" height="480">town01v.dat</file>
     <file type="raw" palette="title01v.pal" width="640" height="480">title01v.dat</file>
     <file type="raw" palette="mpalette.dat" width="32" height="665">face01m.dat</file>
-    <file type="chunks" palette="mpalette.dat" tab="font00v.tab">font00v.dat</file>
     <file type="chunks" tab="money01v.tab" palette="mpalette.dat">money01v.dat</file>
     <file type="chunks" tab="vblk-0.tab" palette="mpalette.dat">vblk-0.dat</file>
     <file type="chunks" tab="mblk-0.tab" palette="mpalette.dat">mblk-0.dat</file>
@@ -52,8 +51,56 @@
     <file type="chunks" tab="mspr-0.tab" palette="mpalette.dat">mspr-0.dat</file>
     <file type="chunks" tab="spointer.tab" palette="area01v.pal">spointer.dat</file>
     
+    <file type="chunks" tab="font00v.tab" palette="mpalette.dat">font00v.dat</file>
+    <file type="chunks" tab="font01v.tab" palette="mpalette.dat">font01v.dat</file>
+    <file type="chunks" tab="font02v.tab" palette="mpalette.dat">font02v.dat</file>
+    <file type="chunks" tab="font04v.tab" palette="mpalette.dat">font04v.dat</file>
+    <file type="chunks" tab="font05v.tab" palette="mpalette.dat">font05v.dat</file>
+    <file type="chunks" tab="font09v.tab" palette="mpalette.dat">font09v.dat</file>
+    <file type="chunks" tab="font16v.tab" palette="mpalette.dat">font16v.dat</file>
+    <file type="chunks" tab="font18v.tab" palette="mpalette.dat">font18v.dat</file>
+    <file type="chunks" tab="font19v.tab" palette="mpalette.dat">font19v.dat</file>
+    <file type="chunks" tab="font24v.tab" palette="mpalette.dat">font24v.dat</file>
+    <file type="chunks" tab="font26v.tab" palette="mpalette.dat">font26v.dat</file>
+    <file type="chunks" tab="font31v.tab" palette="mpalette.dat">font31v.dat</file>
+    <file type="chunks" tab="font34v.tab" palette="mpalette.dat">font34v.dat</file>
+    <file type="chunks" tab="font35v.tab" palette="mpalette.dat">font35v.dat</file>
+    <file type="chunks" tab="font36v.tab" palette="mpalette.dat">font36v.dat</file>
+    <file type="chunks" tab="font37v.tab" palette="mpalette.dat">font37v.dat</file>
+    <file type="chunks" tab="font38v.tab" palette="mpalette.dat">font38v.dat</file>
+    <file type="chunks" tab="font39v.tab" palette="mpalette.dat">font39v.dat</file>
+    <file type="chunks" tab="font40v.tab" palette="mpalette.dat">font40v.dat</file>
+    <file type="chunks" tab="font43v.tab" palette="mpalette.dat">font43v.dat</file>
+    <file type="chunks" tab="font45v.tab" palette="mpalette.dat">font45v.dat</file>
+    <file type="chunks" tab="font46v.tab" palette="mpalette.dat">font46v.dat</file>
+    <file type="chunks" tab="font47v.tab" palette="mpalette.dat">font47v.dat</file>
+    <file type="chunks" tab="font50v.tab" palette="mpalette.dat">font50v.dat</file>
+    <file type="chunks" tab="font51v.tab" palette="mpalette.dat">font51v.dat</file>
+    <file type="chunks" tab="font60v.tab" palette="mpalette.dat">font60v.dat</file>
+    <file type="chunks" tab="font74v.tab" palette="mpalette.dat">font74v.dat</file>
     <file type="chunks" tab="font100m.tab" palette="mpalette.dat">font100m.dat</file>
     <file type="chunks" tab="font100v.tab" palette="mpalette.dat">font100v.dat</file>
+    <file type="chunks" tab="font101m.tab" palette="mpalette.dat">font101m.dat</file>
+    <file type="chunks" tab="font101v.tab" palette="mpalette.dat">font101v.dat</file>
+    <file type="chunks" tab="font102v.tab" palette="mpalette.dat">font102v.dat</file>
+    <file type="chunks" tab="font105v.tab" palette="mpalette.dat">font105v.dat</file>
+    <file type="chunks" tab="font106v.tab" palette="mpalette.dat">font106v.dat</file>
+    <file type="chunks" tab="font110v.tab" palette="mpalette.dat">font110v.dat</file>
+    <file type="chunks" tab="font111v.tab" palette="mpalette.dat">font111v.dat</file>
+    <file type="chunks" tab="font112v.tab" palette="mpalette.dat">font112v.dat</file>
+    <file type="chunks" tab="font113v.tab" palette="mpalette.dat">font113v.dat</file>
+    <file type="chunks" tab="font115v.tab" palette="mpalette.dat">font115v.dat</file>
+    <file type="chunks" tab="font120v.tab" palette="mpalette.dat">font120v.dat</file>
+    <file type="chunks" tab="font121v.tab" palette="mpalette.dat">font121v.dat</file>
+    <file type="chunks" tab="font122v.tab" palette="mpalette.dat">font122v.dat</file>
+    <file type="chunks" tab="font124v.tab" palette="mpalette.dat">font124v.dat</file>
+    <file type="chunks" tab="font130m.tab" palette="mpalette.dat">font130m.dat</file>
+    <file type="chunks" tab="font131m.tab" palette="mpalette.dat">font131m.dat</file>
+    <file type="chunks" tab="font132m.tab" palette="mpalette.dat">font132m.dat</file>
+    <file type="chunks" tab="font250v.tab" palette="mpalette.dat">font250v.dat</file>
+    <file type="chunks" tab="font500v.tab" palette="mpalette.dat">font500v.dat</file>
+    <file type="chunks" tab="font501v.tab" palette="mpalette.dat">font501v.dat</file>
+    <file type="chunks" tab="font502v.tab" palette="mpalette.dat">font502v.dat</file>
     
     <file type="extchunks" tab="watch01v.tab" palette="mpalette.dat">watch01v.dat</file>
     <file type="extchunks" tab="panel02v.tab" palette="mpalette.dat">panel02v.dat</file>
